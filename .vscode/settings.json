@@ -1,6 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "d:/09_RPA/RPA with Robot Framework Level 3/inhuman-insurance-inc-ais-robot/."
-    ],
-    "python.terminal.activateEnvironment": false
-}
